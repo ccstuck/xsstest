@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://yaseng.me/xssing-1.html
+[DOC_easyXDM_default9823_provider]
+BASEURL=http://duoshuo.com/cors/index.html?xdm_e=http%3A%2F%2Fyaseng.me&xdm_c=default9823&xdm_p=1
+ORIGURL=http://duoshuo.com/cors/index.html?xdm_e=http%3A%2F%2Fyaseng.me&xdm_c=default9823&xdm_p=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://yaseng.me/xssing-1.html
+IDList=
+IconFile=http://yaseng.me/wp-content/themes/yaseng/images/favicon.ico
+IconIndex=1

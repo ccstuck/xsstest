@@ -1,2 +1,0 @@
-# xsstest
-test for xss
